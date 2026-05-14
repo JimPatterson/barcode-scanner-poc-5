@@ -26,9 +26,9 @@
         "backgroundColor": "#000000"
       },
       "permissions": [
-        "android.permission.CAMERA",
         "android.permission.CAMERA"
       ],
+      "screenOrientation": "portrait",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.jimp.barcodescannerpoc5"
